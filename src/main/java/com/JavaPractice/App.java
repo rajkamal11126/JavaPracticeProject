@@ -14,10 +14,14 @@ public class App
     public static void main( String[] args )
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
     	String message = "HeLlo, WorLd";
 =======
     	String message = "hello, world";
 >>>>>>> fe0735b48562efe42525011fd8e5e01f7d313e84
+=======
+    	String message = "hellO, wOrld";
+>>>>>>> 818f501bf9df909d8c9825b6792a33263c1bb1fb
     	LOG.debug(message + "Will be Printed on Debug");
     	LOG.info(message + "Will be Printed on Info");
     	LOG.warn(message + "Will be Printed on Warn");
