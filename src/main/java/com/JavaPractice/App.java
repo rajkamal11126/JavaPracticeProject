@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger;
  * Hello world!
  *
  */
+//log4j is used to maintain the history of debug.
 public class App 
 {
 	private static final Logger LOG = LogManager.getLogger(App.class);
